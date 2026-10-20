@@ -1,0 +1,1 @@
+Rscript gen_mouse.allen.bin100.r /cluster/home/majianyun/share/HD_data/Spatial_Hypothalamus/mouse/total_gene/Bin100_mouse1_Transallen_241210 Bin100_mouse1_Transallen_241210 ../mouse/total_gene/HYRegions_All.csv
