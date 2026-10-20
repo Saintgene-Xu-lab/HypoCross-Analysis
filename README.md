@@ -1,4 +1,4 @@
-# codeversion261013
+# HypoCross analysis
 
 Analysis code for comparative snRNA-seq and spatial transcriptomics (Stereo-seq) of the hypothalamus across three species: mouse, macaque, and marmoset.
 
@@ -163,4 +163,4 @@ Supplementary figure generation: sequencing QC panels, routine and per-donor UMA
 
 ## Notes
 
-Code organization and documentation were completed with AI assistance. Analysis logic and parameters follow the paper's Methods section. A detailed code–Methods correspondence is available in `99_check_report.md`.
+Code organization and documentation were completed with AI assistance. Analysis logic and parameters follow the paper's Methods section. 
